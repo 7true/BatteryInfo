@@ -15,12 +15,12 @@
         android:layout_height="wrap_content"
         android:text="Voltage: "/>
     <TextView
-        android:id="@+id/textViewTemp"
+        android:id="@+id/textViewTemperature"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Temperature:"/>
     <TextView
-        android:id="@+id/textViewTechology"
+        android:id="@+id/textViewTechnology"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Type:" />
@@ -45,7 +45,7 @@
         android:layout_height="wrap_content"
         android:text="Type of charge:" />
     <ImageView
-        android:id="@+id/ImageViewIcon"
+        android:id="@+id/imageViewIcon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
